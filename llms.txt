@@ -1,20 +1,22 @@
-# Divorce and Bankruptcy -- Which to File First? [2026] -- Divorceanddebt
+# Divorce and Bankruptcy - Which to File First? [2026] - Divorceanddebt
 > Should you file bankruptcy before or after divorce? Shared debts, property division, and strategic timing. 2026 guide.
 
 ## About
 divorceanddebt.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Bankruptcy Timing and Divorce -- Before, During, or After? -- Divorceanddebt: https://divorceanddebt.org/bankruptcy-timing-and-divorce.html
-- Community Property States and Debt in Divorce -- Divorceanddebt: https://divorceanddebt.org/community-property-states.html
-- Credit Card Debt in Divorce -- Joint Cards, Authorized Users, and Division -- Divorceanddebt: https://divorceanddebt.org/credit-card-debt-divorce.html
-- Domestic Support Obligations in Bankruptcy -- What Cannot Be Discharged -- Divorceanddebt: https://divorceanddebt.org/domestic-support-obligations.html
-- Hold Harmless Clauses in Divorce -- What They Mean and Their Limits -- Divorceanddebt: https://divorceanddebt.org/hold-harmless-clauses.html
-- Divorce and Bankruptcy -- Which to File First? [2026] -- Divorceanddebt: https://divorceanddebt.org/
-- Joint Debt After Divorce -- Protecting Yourself When Your Ex Doesn't Pay -- Divorceanddebt: https://divorceanddebt.org/joint-debt-after-divorce.html
-- Marital Debt Division in Divorce -- Who Pays What? -- Divorceanddebt: https://divorceanddebt.org/marital-debt-division.html
-- Mortgage After Divorce -- Refinancing, Selling, and Protecting Your Credit -- Divorceanddebt: https://divorceanddebt.org/mortgage-after-divorce.html
-- Student Loans in Divorce -- Division, Responsibility, and Bankruptcy -- Divorceanddebt: https://divorceanddebt.org/student-loans-in-divorce.html
+- Bankruptcy Timing and Divorce - Before, During, or After? - Divorceanddebt: https://divorceanddebt.org/bankruptcy-timing-and-divorce.html
+- Community Property States and Debt in Divorce - Divorceanddebt: https://divorceanddebt.org/community-property-states.html
+- Credit Card Debt in Divorce - Joint Cards, Authorized Users, and Division - Divorceanddebt: https://divorceanddebt.org/credit-card-debt-divorce.html
+- Domestic Support Obligations in Bankruptcy - What Cannot Be Discharged - Divorceanddebt: https://divorceanddebt.org/domestic-support-obligations.html
+- Filing Bankruptcy During Divorce - What You Need to Know - Divorceanddebt: https://divorceanddebt.org/filing-during-divorce.html
+- Hold Harmless Clauses in Divorce - What They Mean and Their Limits - Divorceanddebt: https://divorceanddebt.org/hold-harmless-clauses.html
+- Divorce and Bankruptcy - Which to File First? [2026] - Divorceanddebt: https://divorceanddebt.org/
+- Joint Debt After Divorce - Protecting Yourself When Your Ex Doesn't Pay - Divorceanddebt: https://divorceanddebt.org/joint-debt-after-divorce.html
+- Marital Debt Division in Divorce - Who Pays What? - Divorceanddebt: https://divorceanddebt.org/marital-debt-division.html
+- Mortgage After Divorce - Refinancing, Selling, and Protecting Your Credit - Divorceanddebt: https://divorceanddebt.org/mortgage-after-divorce.html
+- Student Loans in Divorce - Division, Responsibility, and Bankruptcy - Divorceanddebt: https://divorceanddebt.org/student-loans-in-divorce.html
+- Privacy Policy: https://divorceanddebt.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

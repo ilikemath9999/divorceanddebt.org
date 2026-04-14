@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Bankruptcy Timing and Divorce -- Before, During, or After? -- Divorceanddebt
+## Bankruptcy Timing and Divorce - Before, During, or After? - Divorceanddebt
 Source: https://divorceanddebt.org/bankruptcy-timing-and-divorce.html
 
 Bankruptcy Timing and Divorce
@@ -23,7 +23,7 @@ This is often the most efficient approach if both parties agree. One bankruptcy 
 
 Filing During Divorce
 
-Either spouse can file bankruptcy during divorce proceedings. This triggers the automatic stay, which can temporarily halt division of marital property (though family courts can usually proceed with custody, support, and dissolution). The timing can be strategic -- a spouse facing an unfavorable property division might file bankruptcy to restructure their debts.
+Either spouse can file bankruptcy during divorce proceedings. This triggers the automatic stay, which can temporarily halt division of marital property (though family courts can usually proceed with custody, support, and dissolution). The timing can be strategic - a spouse facing an unfavorable property division might file bankruptcy to restructure their debts.
 
 Filing during divorce is complex and can create conflicts between bankruptcy court and family court. Both courts have jurisdiction over the same assets and debts. Coordination is essential. You need both a bankruptcy attorney and a divorce attorney who communicate with each other.
 
@@ -75,10 +75,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -156,7 +156,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Community Property States and Debt in Divorce -- Divorceanddebt
+## Community Property States and Debt in Divorce - Divorceanddebt
 Source: https://divorceanddebt.org/community-property-states.html
 
 Community Property States and Debt
@@ -167,7 +167,7 @@ Home » Community Property States and Debt
 
 The Community Property Rule
 
-In the 9 community property states (Arizona, California, Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, Wisconsin), debts incurred during the marriage are presumed to be community debts -- the equal responsibility of both spouses regardless of who incurred them or whose name is on the account.
+In the 9 community property states (Arizona, California, Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, Wisconsin), debts incurred during the marriage are presumed to be community debts - the equal responsibility of both spouses regardless of who incurred them or whose name is on the account.
 
 This means: if your spouse ran up $30,000 in credit card debt during the marriage without your knowledge, you may be equally responsible for half (or all) of it depending on the state's specific rules. The presumption can be rebutted by showing the debt was incurred for a non-community purpose, but the burden of proof is on the contesting spouse.
 
@@ -225,10 +225,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -306,7 +306,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Credit Card Debt in Divorce -- Joint Cards, Authorized Users, and Division -- Divorceanddebt
+## Credit Card Debt in Divorce - Joint Cards, Authorized Users, and Division - Divorceanddebt
 Source: https://divorceanddebt.org/credit-card-debt-divorce.html
 
 Credit Card Debt in Divorce
@@ -375,10 +375,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -456,7 +456,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Domestic Support Obligations in Bankruptcy -- What Cannot Be Discharged -- Divorceanddebt
+## Domestic Support Obligations in Bankruptcy - What Cannot Be Discharged - Divorceanddebt
 Source: https://divorceanddebt.org/domestic-support-obligations.html
 
 Domestic Support Obligations
@@ -479,7 +479,7 @@ However, Chapter 7 can help indirectly: by eliminating other debts (credit cards
 
 DSOs in Chapter 13
 
-Chapter 13 has complex rules for DSOs. All current DSO payments must be maintained during the plan -- you must pay your ongoing child support and alimony on time as a condition of remaining in Chapter 13. DSO arrearages must be paid in full through the plan. DSOs are first-priority claims, meaning they're paid before unsecured creditors.
+Chapter 13 has complex rules for DSOs. All current DSO payments must be maintained during the plan - you must pay your ongoing child support and alimony on time as a condition of remaining in Chapter 13. DSO arrearages must be paid in full through the plan. DSOs are first-priority claims, meaning they're paid before unsecured creditors.
 
 Property settlement obligations (non-DSO divorce debts) may be dischargeable in Chapter 13 if the plan is completed. This is one significant advantage of Chapter 13 over Chapter 7 for divorced debtors. Example: an equalization payment ordered in the divorce decree may be eliminated through Chapter 13, while child support cannot.
 
@@ -531,10 +531,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -612,7 +612,378 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Hold Harmless Clauses in Divorce -- What They Mean and Their Limits -- Divorceanddebt
+## Filing Bankruptcy During Divorce - What You Need to Know - Divorceanddebt
+Source: https://divorceanddebt.org/filing-during-divorce.html
+
+Open Bankruptcy Project › divorceanddebt.org › Filing During Divorce
+
+Filing Bankruptcy During Divorce - What You Need to Know
+
+When marriage ends and debts remain, the intersection of bankruptcy and divorce law creates traps that can cost you thousands. Here is how to navigate both at the same time.
+
+1. The Fundamental Tension
+
+Divorce and bankruptcy are governed by different courts with different goals. Divorce courts divide assets and debts between spouses. Bankruptcy courts discharge debts and protect debtors from creditors. These goals can conflict directly.
+
+The most important thing to understand: a divorce decree does not bind creditors. If the divorce judge orders your ex-spouse to pay a joint credit card, the creditor can still pursue you for the full amount if your ex defaults. Only bankruptcy can truly sever your connection to joint debts.
+
+2. Joint Filing vs. Individual Filing
+
+Joint Bankruptcy Filing (Before or During Divorce)
+
+Married couples - even those in the process of divorcing - can file a joint bankruptcy petition. Advantages:
+
+One filing fee ($338) instead of two.
+
+One attorney fee instead of two.
+
+All joint debts eliminated at once for both spouses.
+
+Simplifies the divorce by removing debt from the equation before property division.
+
+Double exemptions in many states - married couples filing jointly can claim double the individual exemption amounts.
+
+Best-case scenario: File a joint Chapter 7 before the divorce. All shared debts are discharged in 3-4 months. Then proceed with divorce, dividing only assets - no debts to argue about.
+
+Individual Bankruptcy Filing (During or After Divorce)
+
+If cooperation is impossible, either spouse can file individually. Considerations:
+
+Only the filing spouse's liability is discharged. The non-filing spouse remains liable for joint debts.
+
+Means test income calculation: If filing while still married, you may need to include your spouse's income (unless you are separated and maintaining separate households).
+
+Property of the estate includes your share of marital property. The Chapter 7 trustee could claim non-exempt marital assets.
+
+The automatic stay protects the filing spouse but not the non-filing spouse from creditors.
+
+3. Domestic Support Obligations - The Sacred Priority
+
+11 U.S.C. section 523(a)(5): Debts for domestic support obligations are nondischargeable in any chapter of bankruptcy - Chapter 7, Chapter 11, Chapter 12, or Chapter 13.
+
+Domestic support obligations (DSOs) include:
+
+Child support (current and arrears)
+
+Alimony / spousal maintenance
+
+Separation agreement payments designated as support
+
+Attorney's fees awarded in connection with support
+
+DSOs are also first-priority claims in bankruptcy under section 507(a)(1). In a Chapter 13 case, the plan must propose to pay all DSO arrears in full, and the debtor must remain current on ongoing DSO payments throughout the plan. Failure to stay current is grounds for dismissal or denial of discharge.
+
+Critical rule: You cannot use bankruptcy to escape child support or alimony. These obligations survive every chapter of bankruptcy. The automatic stay does not stop collection of DSOs.
+
+4. Property Settlement Debts - 11 U.S.C. Section 523(a)(15)
+
+Debts owed to a former spouse under a divorce decree that are not domestic support obligations are called property settlement obligations. These are treated differently depending on the bankruptcy chapter:
+
+Obligation TypeChapter 7Chapter 13
+
+Child support / alimony (DSO)NondischargeableNondischargeable
+
+Property settlement obligationsNondischargeable (523(a)(15))Dischargeable
+
+Joint debts assigned in decreeNondischargeable to extent owed to ex-spouseDischargeable as to ex-spouse
+
+11 U.S.C. section 523(a)(15): A discharge does not discharge an individual from any debt "to a spouse, former spouse, or child of the debtor and not of the kind described in paragraph (5) that is incurred by the debtor in the course of a divorce or separation or in connection with a separation agreement, divorce decree, or other order of a court of record."
+
+This means if your divorce decree orders you to pay your ex-spouse an equalization payment of $50,000, that debt cannot be discharged in Chapter 7. But it can be discharged in Chapter 13 (after paying what the plan requires).
+
+5. The Automatic Stay and Divorce Proceedings
+
+The automatic stay under 11 U.S.C. section 362 pauses most legal proceedings against the debtor. However, specific exceptions exist for family law matters:
+
+What the Stay DOES NOT Stop (Section 362(b)(2))
+
+Establishment or modification of domestic support obligations
+
+Child custody and visitation determinations
+
+Dissolution of marriage (the divorce itself)
+
+Domestic violence proceedings
+
+Withholding of income for DSO purposes
+
+Reporting DSO delinquency to credit bureaus
+
+Interception of tax refunds for DSO arrears
+
+Enforcement of medical support obligations
+
+What the Stay DOES Stop
+
+Division of marital property that is property of the bankruptcy estate
+
+Creditor collection on joint debts
+
+Enforcement of property settlement obligations
+
+Garnishment for non-DSO debts
+
+In practice, this means the divorce can proceed through the dissolution, custody, and support phases, but property division may be paused until the bankruptcy is resolved (or the stay is lifted).
+
+6. Timing Strategy - When to File
+
+Filing Bankruptcy BEFORE Divorce
+
+Advantages:
+
+Eliminate joint debts together (joint filing).
+
+Simplify the divorce - less to fight about.
+
+Double exemptions may protect more property.
+
+Combined household income may actually help if below median (easier means test).
+
+One set of legal fees instead of two.
+
+Disadvantages:
+
+Requires cooperation between spouses.
+
+Combined income may push you over the means test threshold.
+
+Delays the divorce by 3-4 months (Chapter 7) or 3-5 years (Chapter 13).
+
+Filing Bankruptcy DURING Divorce
+
+Can be done individually. The automatic stay will pause property division aspects of the divorce. The bankruptcy trustee may become involved in the marital property dispute if there are non-exempt assets. This can complicate both proceedings.
+
+Filing Bankruptcy AFTER Divorce
+
+Advantages:
+
+Individual income is used for means test (often lower, making Chapter 7 more likely).
+
+You know exactly which debts and assets are yours.
+
+No cooperation with ex-spouse required.
+
+Disadvantages:
+
+Joint debts assigned to your ex in the decree are still your problem if they default.
+
+Property settlement obligations are nondischargeable in Chapter 7.
+
+You may have already been sued or garnished for joint debts.
+
+7. The Joint Debt Trap
+
+This is the single most important concept for divorcing couples with debt:
+
+A divorce decree does not bind creditors. If both your names are on a credit card, the creditor can pursue either or both of you for the full balance - regardless of what the divorce decree says about who is responsible.
+
+Example: The divorce decree assigns a $20,000 joint credit card to your ex-spouse. Your ex stops paying. The creditor sues you for $20,000. You cannot use the divorce decree as a defense. Your only remedy is to sue your ex for violating the divorce decree - which costs money and may be futile if your ex has no assets.
+
+This is why eliminating joint debts through bankruptcy - preferably before the divorce - is so important.
+
+8. Community Property vs. Common Law States
+
+Your state's property law regime affects how bankruptcy interacts with divorce:
+
+Community Property States (AZ, CA, ID, LA, NV, NM, TX, WA, WI)
+
+Debts incurred during marriage are presumed community debts. Both spouses are liable.
+
+In bankruptcy, community property is part of the estate even if only one spouse files.
+
+The non-filing spouse's share of community property may be used to pay the filing spouse's creditors.
+
+Common Law (Equitable Distribution) States (41 states + DC)
+
+Debts are owed by the person who incurred them. Joint debts require both signatures.
+
+Only the filing spouse's property enters the bankruptcy estate.
+
+The non-filing spouse's separate property is generally protected.
+
+9. Impact on the Marital Home
+
+The family home is often the largest asset in both the divorce and the bankruptcy. Key considerations:
+
+Homestead exemption: If both spouses file jointly, they can typically claim double the homestead exemption, protecting more equity.
+
+Mortgage in both names: A joint bankruptcy can address the mortgage for both spouses. If one spouse keeps the house, a reaffirmation agreement or assumption may be needed.
+
+Underwater mortgage: If the house is worth less than the mortgage, Chapter 7 allows surrender with the deficiency discharged.
+
+Chapter 13 lien stripping: In some circuits, wholly unsecured junior liens can be stripped from the home in Chapter 13.
+
+10. Means Test Considerations for Divorcing Spouses
+
+The Chapter 7 means test under section 707(b) compares your income to the state median. Marital status affects the calculation:
+
+Filing jointly (married): Combined household income is compared to the median for a household of your size.
+
+Filing individually while married: Your spouse's income may need to be included unless you are living separately.
+
+Filing after divorce: Only your individual income is counted. Household size drops (unless you have custody of children).
+
+For many divorcing individuals - especially the lower-earning spouse - filing after the divorce finalizes results in a lower income figure that makes Chapter 7 qualification easier.
+
+11. Protecting Yourself - Practical Steps
+
+Get a credit report. Identify every joint account and every account where your spouse is an authorized user or co-borrower.
+
+Close joint accounts. Prevent your spouse from adding to joint credit card balances. Request the creditor close the account to new charges.
+
+Consult both a bankruptcy attorney and a divorce attorney. The timing decision requires expertise in both areas.
+
+Document all joint debts with current balances, creditor names, and account numbers.
+
+Do not assume your ex will pay. Plan as if you are responsible for every joint debt.
+
+Consider a joint Chapter 7 filing as a precondition to finalizing the divorce. Frame it as a mutual benefit: both spouses walk away debt-free.
+
+Monitor joint accounts during the divorce process. Set up alerts for any activity.
+
+12. When Your Ex-Spouse Files Bankruptcy
+
+If your former spouse files bankruptcy after the divorce:
+
+Joint debts assigned to them in the decree may be discharged as to them. Creditors will then come to you for full payment.
+
+Your alimony and child support remain protected - these are nondischargeable in any chapter.
+
+Property settlement obligations owed to you are nondischargeable in Chapter 7 (523(a)(15)) but dischargeable in Chapter 13.
+
+You may need to file a claim in their bankruptcy case for DSO arrears or property settlement obligations.
+
+You may need to file your own bankruptcy to deal with the joint debts now redirected to you.
+
+13. Chapter 7 vs. Chapter 13 in the Divorce Context
+
+FactorChapter 7Chapter 13
+
+Speed3-4 months3-5 years
+
+Property settlement obligationsNondischargeableDischargeable
+
+DSO (alimony/support)NondischargeableNondischargeable
+
+Joint debtsDischarged for filing spouse onlyPaid through plan (codebtor stay protects ex)
+
+Impact on divorce timelineMinimal delaySignificant overlap (3-5 years)
+
+Means testRequired (income must be below median or pass full test)No means test (available to all)
+
+Non-exempt assets at riskYes - trustee can sellNo - you keep assets but pay unsecured creditors what they would have received in Ch. 7
+
+14. Common Mistakes
+
+Assuming the divorce decree protects you from creditors. It does not.
+
+Not closing joint accounts immediately. Your spouse can run up debt you are liable for.
+
+Filing Chapter 7 to discharge a property settlement. Section 523(a)(15) makes these nondischargeable in Chapter 7. Chapter 13 is the right tool.
+
+Hiding assets in the divorce to protect them in bankruptcy. Both courts require full disclosure. Fraud in either proceeding can result in denial of discharge or contempt.
+
+Not consulting both types of attorneys. A divorce attorney may not understand bankruptcy timing, and a bankruptcy attorney may not understand family law implications.
+
+Transferring property between spouses before bankruptcy. Transfers within 2 years of filing can be unwound as fraudulent conveyances under section 548.
+
+15. Special Considerations for Business Owners
+
+If either spouse owns a business, the intersection of divorce and bankruptcy becomes more complex:
+
+Business valuation disputes in divorce may conflict with bankruptcy schedules.
+
+The Chapter 7 trustee may sell the business or its assets.
+
+Business debts personally guaranteed by both spouses are joint debts.
+
+Chapter 11 or Subchapter V may be needed to reorganize business debts while the divorce addresses personal property division.
+
+Frequently Asked Questions
+
+Can I file bankruptcy jointly with my spouse during a divorce?
+
+Yes. A joint filing eliminates shared debts in one case, simplifies the divorce, and is cheaper than two separate filings. However, both spouses must cooperate on schedules and exemptions.
+
+Can I discharge debts assigned to me in the divorce decree?
+
+Property settlement obligations under 523(a)(15) are nondischargeable in Chapter 7 but can be discharged in Chapter 13. Domestic support obligations (alimony, child support) are nondischargeable in any chapter.
+
+Does the automatic stay stop my divorce proceedings?
+
+The stay does not stop the divorce itself, custody, or support calculations. It can pause property division and prevents creditors from collecting on joint debts during the bankruptcy.
+
+Should I file bankruptcy before or after the divorce is final?
+
+Filing before often saves money and simplifies the divorce by eliminating joint debts. Filing after may be better if your individual income is lower, making Chapter 7 qualification easier.
+
+What happens to joint credit card debt in a divorce bankruptcy?
+
+If both spouses file jointly, all joint debt is discharged. If only one spouse files, only their liability is discharged - the non-filing spouse remains fully liable. Creditors are not bound by divorce agreements.
+
+Related Resources
+
+Cosigner Protection in Bankruptcy
+Joint debt, cosigner liability, and the codebtor stay
+
+Vacating Judgments After Bankruptcy
+How to remove judgment liens after filing
+
+Bankruptcy vs. Debt Settlement
+Compare your options for eliminating credit card debt
+
+Default Judgment - What Happens Next
+If a creditor gets a judgment while you are divorcing
+
+Open Bankruptcy Project
+Free bankruptcy information and tools
+
+Navigating bankruptcy and divorce at the same time?
+
+Our free tools can help you understand how these processes interact.
+
+Visit Open Bankruptcy Project
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Hold Harmless Clauses in Divorce - What They Mean and Their Limits - Divorceanddebt
 Source: https://divorceanddebt.org/hold-harmless-clauses.html
 
 Hold Harmless Clauses in Divorce
@@ -681,10 +1052,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -762,8 +1133,10 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Divorce and Bankruptcy -- Which to File First? [2026] -- Divorceanddebt
+## Divorce and Bankruptcy - Which to File First? [2026] - Divorceanddebt
 Source: https://divorceanddebt.org/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
@@ -773,7 +1146,7 @@ How Divorce Affects Your Debts, Credit, and Bankruptcy Options
 
 How Divorce Divides Debt
 
-When a court divides debt in a divorce decree, it assigns responsibility for each debt to one spouse. But here is the critical fact most people miss: the divorce decree only binds the two spouses -- it does not bind creditors. If both names are on a credit card, both spouses remain liable to the creditor regardless of what the divorce decree says.
+When a court divides debt in a divorce decree, it assigns responsibility for each debt to one spouse. But here is the critical fact most people miss: the divorce decree only binds the two spouses - it does not bind creditors. If both names are on a credit card, both spouses remain liable to the creditor regardless of what the divorce decree says.
 
 This means if your ex-spouse is ordered to pay a joint credit card and doesn't, the creditor will come after you. You can then sue your ex for violating the divorce decree, but that's expensive and often futile if they have no money.
 
@@ -793,17 +1166,17 @@ Bankruptcy Before vs. After Divorce
 
 Filing bankruptcy before divorce can be advantageous: you eliminate joint debts together, simplify the divorce (less debt to fight over), and save money (one filing instead of two). Filing after divorce may be necessary if you cannot cooperate with your ex or if the divorce decree has already been entered.
 
-Timing matters. Domestic support obligations (child support, alimony) are never dischargeable in bankruptcy. But property settlement debts -- debts to your ex that are not support -- can be discharged in Chapter 13 (though not Chapter 7). 11 U.S.C. 523(a)(15) governs this distinction.
+Timing matters. Domestic support obligations (child support, alimony) are never dischargeable in bankruptcy. But property settlement debts - debts to your ex that are not support - can be discharged in Chapter 13 (though not Chapter 7). 11 U.S.C. 523(a)(15) governs this distinction.
 
 Domestic Support vs. Property Settlement
 
-Bankruptcy law draws a critical line between two types of divorce-related obligations. Domestic support obligations (DSOs) -- alimony, maintenance, child support: never dischargeable in any chapter. They survive bankruptcy completely. Property settlement obligations -- debts from property division: not dischargeable in Chapter 7, but potentially dischargeable in Chapter 13.
+Bankruptcy law draws a critical line between two types of divorce-related obligations. Domestic support obligations (DSOs) - alimony, maintenance, child support: never dischargeable in any chapter. They survive bankruptcy completely. Property settlement obligations - debts from property division: not dischargeable in Chapter 7, but potentially dischargeable in Chapter 13.
 
 Courts look at the substance, not the label. If a payment labeled "property settlement" is really disguised support, the court will treat it as non-dischargeable. Factors: whether it ends at death or remarriage, whether it's in proportion to income, whether children are involved.
 
 Protecting Yourself During Divorce
 
-1. Close all joint credit accounts immediately -- or at least remove yourself as an authorized user. 2. Monitor your credit report weekly during and after divorce. 3. Document all debts with account numbers, balances, and whose name is on each. 4. Consider bankruptcy before finalizing if joint debt is substantial. 5. Get a hold harmless clause in the decree requiring your ex to indemnify you.
+1. Close all joint credit accounts immediately - or at least remove yourself as an authorized user. 2. Monitor your credit report weekly during and after divorce. 3. Document all debts with account numbers, balances, and whose name is on each. 4. Consider bankruptcy before finalizing if joint debt is substantial. 5. Get a hold harmless clause in the decree requiring your ex to indemnify you.
 
 Rebuilding credit after divorce and bankruptcy is absolutely possible.
 
@@ -841,23 +1214,23 @@ Bankruptcy can pause certain financial aspects of divorce. The automatic stay do
 
 Explore Our Guides
 
-Marital Debt Division in Divorce -- How divorce courts divide marital debt. Community property vs. equitable distribution, joint vs. individual debts, and w
+Marital Debt Division in Divorce - How divorce courts divide marital debt. Community property vs. equitable distribution, joint vs. individual debts, and w
 
-Bankruptcy Timing and Divorce -- Strategic analysis of when to file bankruptcy relative to divorce. Joint filing advantages, income considerations, and p
+Bankruptcy Timing and Divorce - Strategic analysis of when to file bankruptcy relative to divorce. Joint filing advantages, income considerations, and p
 
-Joint Debt After Divorce -- When your ex-spouse doesn't pay joint debts assigned in the divorce. Your rights, protective strategies, and legal remed
+Joint Debt After Divorce - When your ex-spouse doesn't pay joint debts assigned in the divorce. Your rights, protective strategies, and legal remed
 
-Hold Harmless Clauses in Divorce -- Divorce decrees often include hold harmless clauses for debt. Understand what they actually protect and their limits aga
+Hold Harmless Clauses in Divorce - Divorce decrees often include hold harmless clauses for debt. Understand what they actually protect and their limits aga
 
-Community Property States and Debt -- How the 9 community property states handle debt division in divorce. Different rules for marital debt, separate debt, an
+Community Property States and Debt - How the 9 community property states handle debt division in divorce. Different rules for marital debt, separate debt, an
 
-Student Loans in Divorce -- How student loan debt is handled in divorce. Who's responsible for education debt, federal vs. private loans, and the ba
+Student Loans in Divorce - How student loan debt is handled in divorce. Who's responsible for education debt, federal vs. private loans, and the ba
 
-Mortgage After Divorce -- Options for the marital home mortgage in divorce. Refinancing into one name, selling, or keeping joint liability. Credit
+Mortgage After Divorce - Options for the marital home mortgage in divorce. Refinancing into one name, selling, or keeping joint liability. Credit
 
-Credit Card Debt in Divorce -- How credit card debt is divided in divorce. Joint accounts, individual accounts, authorized users, and strategies for pr
+Credit Card Debt in Divorce - How credit card debt is divided in divorce. Joint accounts, individual accounts, authorized users, and strategies for pr
 
-Domestic Support Obligations -- Child support, alimony, and other domestic support obligations survive bankruptcy. Understand what's non-dischargeable a
+Domestic Support Obligations - Child support, alimony, and other domestic support obligations survive bankruptcy. Understand what's non-dischargeable a
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -893,10 +1266,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -938,7 +1311,7 @@ creditcarddebtbankruptcy.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1073,6 +1446,7 @@ Means Test
 File Without a Lawyer
 Rebuild Credit
 divorceanddebt.org
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -1086,9 +1460,11 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## Joint Debt After Divorce -- Protecting Yourself When Your Ex Doesn't Pay -- Divorceanddebt
+## Joint Debt After Divorce - Protecting Yourself When Your Ex Doesn't Pay - Divorceanddebt
 Source: https://divorceanddebt.org/joint-debt-after-divorce.html
 
 Joint Debt After Divorce
@@ -1099,13 +1475,13 @@ Home » Joint Debt After Divorce
 
 The Joint Liability Problem
 
-This is the single most frustrating post-divorce financial issue. Your divorce decree says your ex pays the credit card. They don't. The creditor calls you. You call your ex. They don't answer. You call your lawyer. The lawyer says you can go back to court -- for another $3,000 in legal fees.
+This is the single most frustrating post-divorce financial issue. Your divorce decree says your ex pays the credit card. They don't. The creditor calls you. You call your ex. They don't answer. You call your lawyer. The lawyer says you can go back to court - for another $3,000 in legal fees.
 
 The root cause: creditors are not bound by divorce decrees. When you and your ex jointly signed for a credit card or loan, you each became individually liable for the full balance. No agreement between you changes that. The only parties who can change your creditor liability are you and the creditor.
 
 Protective Strategies
 
-1. Pay off or refinance joint debts before the divorce is finalized. Use marital assets to pay off credit cards and refinance the mortgage/car loans into one name. 2. Close all joint accounts. Even if a balance remains, closing the account prevents new charges. 3. Monitor all joint accounts. Set up alerts so you know immediately if payments are missed. 4. Include specific enforcement provisions in the decree -- attorney fees for the non-compliant spouse, automatic contempt findings, security interests in the other spouse's assets.
+1. Pay off or refinance joint debts before the divorce is finalized. Use marital assets to pay off credit cards and refinance the mortgage/car loans into one name. 2. Close all joint accounts. Even if a balance remains, closing the account prevents new charges. 3. Monitor all joint accounts. Set up alerts so you know immediately if payments are missed. 4. Include specific enforcement provisions in the decree - attorney fees for the non-compliant spouse, automatic contempt findings, security interests in the other spouse's assets.
 
 If joint debts can't be resolved before divorce, consider whether bankruptcy is a more practical solution than years of fighting your ex over unpaid bills.
 
@@ -1157,10 +1533,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -1238,7 +1614,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Marital Debt Division in Divorce -- Who Pays What? -- Divorceanddebt
+## Marital Debt Division in Divorce - Who Pays What? - Divorceanddebt
 Source: https://divorceanddebt.org/marital-debt-division.html
 
 Marital Debt Division in Divorce
@@ -1255,7 +1631,7 @@ The rules for dividing marital debt depend on your state's system. Nine communit
 
 Joint Debts vs. Individual Debts
 
-Joint debts (both names on the account) remain the legal responsibility of both parties regardless of what the divorce decree says. This is the most important and misunderstood aspect of debt in divorce. If your ex is assigned a joint credit card in the divorce but doesn't pay, the creditor comes after you. The divorce decree is an agreement between spouses -- it does not bind creditors.
+Joint debts (both names on the account) remain the legal responsibility of both parties regardless of what the divorce decree says. This is the most important and misunderstood aspect of debt in divorce. If your ex is assigned a joint credit card in the divorce but doesn't pay, the creditor comes after you. The divorce decree is an agreement between spouses - it does not bind creditors.
 
 Individual debts (one name only) are generally assigned to the spouse who incurred them. However, in community property states, even individual debts incurred during the marriage may be considered marital obligations. Learn how to protect yourself from joint debt after divorce.
 
@@ -1307,10 +1683,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -1388,7 +1764,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Mortgage After Divorce -- Refinancing, Selling, and Protecting Your Credit -- Divorceanddebt
+## Mortgage After Divorce - Refinancing, Selling, and Protecting Your Credit - Divorceanddebt
 Source: https://divorceanddebt.org/mortgage-after-divorce.html
 
 Mortgage After Divorce
@@ -1411,7 +1787,7 @@ If refinancing isn't possible immediately, the divorce decree should include a d
 
 Protecting Your Credit on a Joint Mortgage
 
-If your name is still on the mortgage after divorce: monitor the loan payments (set up online access or payment alerts), be prepared to make payments yourself if your ex falls behind (to protect your credit), and keep records of any payments you make for reimbursement. Your credit score doesn't care about divorce decrees -- a late payment on a joint mortgage damages both parties' credit equally.
+If your name is still on the mortgage after divorce: monitor the loan payments (set up online access or payment alerts), be prepared to make payments yourself if your ex falls behind (to protect your credit), and keep records of any payments you make for reimbursement. Your credit score doesn't care about divorce decrees - a late payment on a joint mortgage damages both parties' credit equally.
 
 If your ex stops paying and you can't afford the payments, your options are: negotiate with the lender for a modification, pursue a short sale, file bankruptcy (Chapter 13 can help save the house, Chapter 7 can eliminate the deficiency), or as a last resort, allow foreclosure and deal with any tax consequences of cancelled debt.
 
@@ -1457,10 +1833,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -1538,7 +1914,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Student Loans in Divorce -- Division, Responsibility, and Bankruptcy -- Divorceanddebt
+## Student Loans in Divorce - Division, Responsibility, and Bankruptcy - Divorceanddebt
 Source: https://divorceanddebt.org/student-loans-in-divorce.html
 
 Student Loans in Divorce
@@ -1551,7 +1927,7 @@ Whose Student Loans Are Whose
 
 Student loans incurred before the marriage are generally the separate debt of the spouse who took them. Student loans incurred during the marriage are more complex: in community property states, they may be community debt; in equitable distribution states, courts consider who benefited from the education and each party's earning capacity.
 
-The trend in most courts is to assign student loan debt to the spouse who received the education, on the theory that they also received the enhanced earning capacity. But this isn't universal -- some courts split education debt if both spouses benefited from the increased household income during the marriage.
+The trend in most courts is to assign student loan debt to the spouse who received the education, on the theory that they also received the enhanced earning capacity. But this isn't universal - some courts split education debt if both spouses benefited from the increased household income during the marriage.
 
 Federal vs. Private Student Loans
 
@@ -1573,7 +1949,7 @@ Usually but not always. Courts consider the totality of circumstances: whether t
 
 Can student loan payments count toward alimony or support?
 
-Not directly. Student loan payments are a separate obligation from spousal support. However, courts may consider student loan obligations when calculating the support amount -- a spouse with large student loan payments may have less income available for support.
+Not directly. Student loan payments are a separate obligation from spousal support. However, courts may consider student loan obligations when calculating the support amount - a spouse with large student loan payments may have less income available for support.
 
 What happens if we both have student loans?
 
@@ -1607,10 +1983,10 @@ Further Reading & Resources
 Authority sources for deeper research on divorce, cosigners, and bankruptcy:
 
 11 U.S.C. Section 523(a)(5)
-Cornell LII -- domestic support obligations
+Cornell LII - domestic support obligations
 
 11 U.S.C. Section 1301
-Cornell LII -- codebtor stay
+Cornell LII - codebtor stay
 
 CFPB: Divorce and Debt
 Consumer guide
@@ -1685,3 +2061,75 @@ Terms
 ♥ Sponsor
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Privacy Policy - divorceanddebt.org
+Source: https://divorceanddebt.org/privacy.html
+
+divorceanddebt.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
