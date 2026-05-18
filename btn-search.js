@@ -1,4 +1,4 @@
-// BTN Cross-Site Search Widget v1.0
+// BTN Cross-Site Search Widget v1.1 (slim)
 // Embeds a floating search button that opens a Google site:-scoped search across the BTN network.
 // Pure JS, no dependencies, dark theme, keyboard accessible. Under 5KB.
 (function() {
@@ -55,24 +55,26 @@
     '#btn-search-overlay{position:fixed;inset:0;z-index:100000;background:rgba(1,4,9,.75);' +
     'display:none;align-items:flex-start;justify-content:center;padding-top:18vh}' +
     '#btn-search-overlay.open{display:flex}' +
-    '#btn-search-box{background:#161b22;border:1px solid #30363d;border-radius:12px;' +
-    'width:90%;max-width:560px;padding:20px 24px;box-shadow:0 16px 48px rgba(0,0,0,.5)}' +
-    '#btn-search-box label{display:block;color:#8b949e;font-size:.8rem;margin-bottom:8px;' +
-    'font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}' +
-    '#btn-search-box .s-row{display:flex;gap:8px}' +
-    '#btn-search-input{flex:1;padding:10px 14px;border-radius:6px;border:1px solid #30363d;' +
-    'background:#0d1117;color:#f0f6fc;font-size:1rem;outline:none;' +
+    '#btn-search-box{position:relative;background:#161b22;border:1px solid #30363d;border-radius:10px;' +
+    'width:92%;max-width:460px;padding:12px 16px;box-shadow:0 16px 48px rgba(0,0,0,.5)}' +
+    '#btn-search-box .s-row{display:flex;gap:8px;align-items:center}' +
+    '#btn-search-input-wrap{position:relative;flex:1}' +
+    '#btn-search-input-icon{position:absolute;left:10px;top:50%;transform:translateY(-50%);' +
+    'pointer-events:none;color:#7d8590;font-size:.95rem;line-height:1}' +
+    '#btn-search-input{width:100%;padding:8px 12px 8px 32px;border-radius:6px;border:1px solid #30363d;' +
+    'background:#0d1117;color:#f0f6fc;font-size:.95rem;outline:none;box-sizing:border-box;' +
     'font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}' +
     '#btn-search-input:focus{border-color:#58a6ff;box-shadow:0 0 0 3px rgba(88,166,255,.15)}' +
     '#btn-search-input::placeholder{color:#484f58}' +
-    '#btn-search-submit{padding:10px 18px;border-radius:6px;border:none;' +
-    'background:#238636;color:#fff;font-weight:600;font-size:.95rem;cursor:pointer;' +
+    '#btn-search-submit{padding:8px 14px;border-radius:6px;border:none;' +
+    'background:#238636;color:#fff;font-weight:600;font-size:.9rem;cursor:pointer;' +
     'font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;white-space:nowrap}' +
     '#btn-search-submit:hover{background:#2ea043}' +
-    '#btn-search-hint{color:#484f58;font-size:.75rem;margin-top:10px;text-align:center;' +
+    '#btn-search-hint{position:absolute;left:0;right:0;top:100%;margin-top:6px;' +
+    'color:#7d8590;font-size:.7rem;text-align:center;' +
     'font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif}' +
     '#btn-search-hint kbd{background:#21262d;border:1px solid #30363d;border-radius:3px;' +
-    'padding:1px 5px;font-size:.7rem;color:#8b949e}';
+    'padding:1px 5px;font-size:.65rem;color:#8b949e}';
   document.head.appendChild(css);
 
   // Toggle button
@@ -89,12 +91,14 @@
   overlay.setAttribute('aria-label', 'Search');
   overlay.innerHTML =
     '<div id="btn-search-box">' +
-    '<label for="btn-search-input">Search across 160+ Bankruptcy Tools Network sites</label>' +
     '<div class="s-row">' +
-    '<input id="btn-search-input" type="text" placeholder="e.g. means test income" autocomplete="off">' +
+    '<div id="btn-search-input-wrap">' +
+    '<span id="btn-search-input-icon" aria-hidden="true">\u{1F50D}</span>' +
+    '<input id="btn-search-input" type="text" placeholder="Search the network…" autocomplete="off" aria-label="Search across 160+ Bankruptcy Tools Network sites">' +
+    '</div>' +
     '<button id="btn-search-submit" type="button">Search</button>' +
     '</div>' +
-    '<div id="btn-search-hint"><kbd>Enter</kbd> to search &middot; <kbd>Esc</kbd> to close &middot; <kbd>Ctrl+K</kbd> to toggle</div>' +
+    '<div id="btn-search-hint"><kbd>↵</kbd> submit &middot; <kbd>esc</kbd> close &middot; <kbd>⌘K</kbd> toggle</div>' +
     '</div>';
 
   document.body.appendChild(toggle);

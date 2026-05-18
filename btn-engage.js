@@ -243,4 +243,61 @@
     }
   });
 
+  // 10. Non-event sentinels -- record what visitors DON'T do
+  // Same data shape as page_view / engagement events already collected;
+  // captures absence of expected behaviors (scroll, click, fold-crossing).
+  var hasScrolled = false;
+  var hasClicked = false;
+  var scrolledPastFold = false;
+
+  window.addEventListener('scroll', function() {
+    if (!hasScrolled) hasScrolled = true;
+    if (!scrolledPastFold && window.scrollY > window.innerHeight * 0.5) {
+      scrolledPastFold = true;
+    }
+  }, {passive: true, capture: true});
+
+  document.addEventListener('click', function() {
+    hasClicked = true;
+  }, {passive: true, capture: true});
+  document.addEventListener('keydown', function() {
+    // any keyboard interaction counts (typing in search, tabbing through links)
+    hasClicked = true;
+  }, {passive: true, capture: true});
+
+  // 10a. no_scroll_10s -- landed and 10s elapsed with zero scroll
+  setTimeout(function() {
+    if (!hasScrolled) {
+      gtag('event', 'no_scroll_10s', {
+        page_path: path,
+        site: host,
+        content_group: group
+      });
+    }
+  }, 10000);
+
+  // 10b. End-of-session sentinels via pagehide + visibilitychange
+  // transport_type: 'beacon' ensures send survives unload (uses navigator.sendBeacon)
+  var sentinelsSent = false;
+  function emitSessionSentinels() {
+    if (sentinelsSent) return;
+    sentinelsSent = true;
+    var elapsed = Math.floor((Date.now() - startTime) / 1000);
+    var base = {
+      page_path: path,
+      site: host,
+      content_group: group,
+      session_seconds: elapsed,
+      transport_type: 'beacon'
+    };
+    if (!hasScrolled) gtag('event', 'no_scroll_session', base);
+    if (!hasClicked) gtag('event', 'no_click_session', base);
+    if (!scrolledPastFold) gtag('event', 'above_fold_only', base);
+    if (elapsed < 5) gtag('event', 'quick_exit', base);
+  }
+  window.addEventListener('pagehide', emitSessionSentinels);
+  document.addEventListener('visibilitychange', function() {
+    if (document.visibilityState === 'hidden') emitSessionSentinels();
+  });
+
 })();
